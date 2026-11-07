@@ -44,6 +44,7 @@ Signal quality is displayed in dBm.
 - 🟢 Strong: approximately -30 to -60 dBm
 - 🟡 Medium: approximately -61 to -75 dBm
 - 🔴 Weak: approximately -76 to -90 dBm
+![Image Alt Text](Screenshot_2026-11-07-18-32-38-945_com.tonix.wifireader.jpg)
 
 ### 📏 Estimated Signal Range
 Displays an approximate range based on signal readings.
