@@ -94,6 +94,7 @@ This allows the user to observe signal changes without continuously looking at t
 
 ### 📈 Signal History
 Track how the signal changes over time with:
+![Image Alt Text](Screenshot_2026-11-07-18-33-04-803_com.tonix.wifireader.jpg)
 
 - dBm history
 - Timestamped readings
