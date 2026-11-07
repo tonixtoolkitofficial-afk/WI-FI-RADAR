@@ -23,6 +23,7 @@ Scan nearby Wi-Fi networks and view:
 - Signal strength in dBm
 - Wi-Fi channel
 - Frequency
+![Image Alt Text](image_link_here.jpg)
 
 ### 📡 Radar Visualization
 A radar-style display shows nearby networks and their relative signal strength.
