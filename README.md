@@ -70,6 +70,7 @@ The app monitors:
 - Signal improving or decreasing
 - Previous readings
 - Strongest observed survey area
+![Image Alt Text](Screenshot_2026-11-07-18-31-15-645_com.miui.home.jpg)
 
 ### 🧭 Live Signal Detector Mode
 A metal-detector-style mode provides automatic feedback based on the changing signal strength of an authorized Wi-Fi network.
