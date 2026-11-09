@@ -1,4 +1,5 @@
 # 📡 TONIX – WiFi Radar
+![Version](https://img.shields.io/badge/Version-2.0.0_ADV-blue)
 
 > An educational Wi-Fi signal analysis and visualization app for cybersecurity students and network learning.
 
